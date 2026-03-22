@@ -22,7 +22,7 @@ A JDBC-based Java program for managing student records.
 ---
 
 ## 🧠 Currently Learning
-- Java Concepts
+- Machine Learning / Deep Learnning
 - Database
 
 ---
