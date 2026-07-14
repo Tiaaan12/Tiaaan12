@@ -163,7 +163,7 @@ Folium
 
 Streamlit
 
-<a href="YOUR_REPOSITORY">
+<a href="https://github.com/Tiaaan12/geospatial-flood-risk-prediction.git">
 
 View Repository →
 
@@ -189,7 +189,7 @@ Pandas
 
 Seaborn
 
-<a href="YOUR_REPOSITORY">
+<a href="https://github.com/Tiaaan12/Correlation-research.git">
 
 View Repository →
 
@@ -245,7 +245,7 @@ OOP
 
 GUI
 
-<a href="YOUR_REPOSITORY">
+<a href="https://github.com/Tiaaan12/Cafe-Management.git">
 
 View Repository →
 
