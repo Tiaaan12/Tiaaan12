@@ -1,34 +1,126 @@
-## 👋 Hi, I'm Christian Devera (Tiaaan12)
+<h1 align="center">Hi 👋, I'm Christian Devera</h1>
 
+<h3 align="center">
+Computer Science Student • Machine Learning Enthusiast • AI Developer
+</h3>
 
-🎓 I'm a 2nd-year **Computer Science student** specializing in **Machine Learning**  
-💻 I enjoy building **Java-based systems** and learning about **AI, data, and automation**  
-🚀 Currently improving my skills in **Python, OOP, and data structures**
+<p align="center">
 
----
+Building AI-powered applications, data-driven solutions, and modern software systems.
 
-## 🧩 My Projects
-Here are some of my favorite works so far:
-
-### ☕ [Cafe Management System](https://github.com/Tiaaan12/Cafe-Management)
-A Java system for managing cafe orders, menus, and sales. Demonstrates OOP and GUI.
-
-### 🏬 [E-commerce Warehouse System](https://github.com/Tiaaan12/E-commerce-Warehouse-System)
-A simple warehouse management built in Java with data tracking and inventory features integrating the principles of Data Structures and Algorithm.
-
-### 🎓 [Student Management System](https://github.com/Tiaaan12/Student-Management-System)
-A JDBC-based Java program for managing student records.
+</p>
 
 ---
 
-## 🧠 Currently Learning
-- Machine Learning / Deep Learnning
-- Database
+## 🚀 About Me
+
+🎓 Computer Science Student specializing in Machine Learning
+
+🤖 Passionate about Artificial Intelligence and Data Science
+
+📈 Interested in Machine Learning, Data Analytics, and Automation
+
+💻 Building projects using Python, Java, and modern web technologies
+
+🌱 Currently learning Deep Learning and MLOps
 
 ---
 
-## 📫 Connect with Me
-- 💼 www.linkedin.com/in/christian-devera-305934376
-christian-devera-305934376
+## 🛠 Tech Stack
 
-- 📧 Email: christiandevera232@gmail.com
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css"/>
+
+</p>
+
+### Frameworks & Libraries
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=streamlit,flask,bootstrap"/>
+
+</p>
+
+### Machine Learning
+
+- Scikit-Learn
+- XGBoost
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+---
+
+## 🚀 Featured Projects
+
+### 🌊 Geospatial Flood Risk Predictor
+
+Machine Learning application that predicts flood risks using environmental and geospatial features.
+
+**Tech**
+
+Python • XGBoost • Streamlit • Folium
+
+---
+
+### 📊 Social Media & Well-being Correlation Analysis
+
+Comprehensive statistical analysis of social media usage and student well-being using Python.
+
+**Tech**
+
+Python • Pandas • Matplotlib • Seaborn • SciPy
+
+---
+
+### 🤖 AI Workflow Automation
+
+Automation tools that simplify repetitive workflows using Artificial Intelligence.
+
+---
+
+### ☕ Java Cafe Management System
+
+Desktop application implementing Object-Oriented Programming concepts with Java Swing.
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tiaaan12&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiaaan12&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Tiaaan12&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+GitHub
+
+https://github.com/Tiaaan12
+
+LinkedIn
+
+https://linkedin.com/in/YOUR-LINKEDIN
+
+---
+
+⭐ Thanks for visiting my profile!
