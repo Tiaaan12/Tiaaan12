@@ -14,8 +14,8 @@
 <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge">
 </a>
 
-<a href="YOUR_LINKEDIN">
-<img src="https://www.linkedin.com/in/deveracv/">
+<a href="https://www.linkedin.com/in/deveracv/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="mailto:christiandevera232@gmail.com">
