@@ -10,7 +10,7 @@
 
 <p>
 
-<a href="YOUR_PORTFOLIO">
+<a href="Coming Soon">
 <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge">
 </a>
 
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="YOUR_RESUME">
+<a href="https://raw.githubusercontent.com/Tiaaan12/portfolio-assets/main/resume/Christian_Devera_Resume.pdf">
 <img src="https://img.shields.io/badge/Resume-111111?style=for-the-badge">
 </a>
 
@@ -359,19 +359,19 @@ View Repository →
 
 <div align="center">
 
-<a href="YOUR_PORTFOLIO">
+<a href="Coming Soon">
 
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge">
 
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/deveracv/">
 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
 
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:christiandevera232@gmail.com">
 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 
