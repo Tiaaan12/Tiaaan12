@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://raw.githubusercontent.com/Tiaaan12/portfolio-assets/main/resume/Christian_Devera_Resume.pdf">
+<a href="https://raw.githubusercontent.com/Tiaaan12/assets/main/resume/Christian_Devera_Resume.pdf">
 <img src="https://img.shields.io/badge/Resume-111111?style=for-the-badge">
 </a>
 
