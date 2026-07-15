@@ -393,7 +393,7 @@ View Repository →
 
 > *"Artificial Intelligence isn't about replacing people—it's about empowering them to solve bigger problems."*
 
-<img src="assets/footer.svg" width="100%">
+<img src="assets/footer.png" width="100%">
 
 ⭐ Thanks for visiting my profile!
 
