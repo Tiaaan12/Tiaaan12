@@ -6,7 +6,7 @@
 
 ### Artificial Intelligence • Machine Learning • Data Analytics • AI Automation
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Machine+Learning+Specialization;AI+Engineer+in+Progress;Building+AI-Powered+Solutions;Python+Developer;Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Machine+Learning+Specialization;AI+Engineer+in+Progress;Building+AI-Powered+Solutions;Python+Developer;Data+Scientist" />
 
 <p>
 
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://raw.githubusercontent.com/Tiaaan12/assets/resume/Christian_Devera_Resume.pdf">
+<a href="https://raw.githubusercontent.com/Tiaaan12/Tiaaan12/main/assets/resume/Christian_Devera_Resume.pdf">
 <img src="https://img.shields.io/badge/Resume-111111?style=for-the-badge">
 </a>
 
@@ -79,7 +79,7 @@ My goal is to create software that solves real-world problems through Artificial
 
 - n8n
 - Make.com
-- MCP
+- Airtable
 - REST APIs
 - AI Agents
 
@@ -129,7 +129,7 @@ My goal is to create software that solves real-world problems through Artificial
 
 ### Frameworks & Tools
 
-<img src="https://skillicons.dev/icons?i=streamlit,flask,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=streamlit,flask,git,github,vscode"/>
 
 ### Currently Learning
 
